@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\bin\Debug\net10.0\ArbolBinarioApp.exe
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\bin\Debug\net10.0\ArbolBinarioApp.deps.json
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\bin\Debug\net10.0\ArbolBinarioApp.runtimeconfig.json
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\bin\Debug\net10.0\ArbolBinarioApp.dll
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\bin\Debug\net10.0\ArbolBinarioApp.pdb
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\obj\Debug\net10.0\ArbolBinarioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\obj\Debug\net10.0\ArbolBinarioApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\obj\Debug\net10.0\ArbolBinarioApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\obj\Debug\net10.0\ArbolBinarioApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\obj\Debug\net10.0\ArbolBinarioApp.sourcelink.json
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\obj\Debug\net10.0\ArbolBinarioApp.dll
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\obj\Debug\net10.0\refint\ArbolBinarioApp.dll
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\obj\Debug\net10.0\ArbolBinarioApp.pdb
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\obj\Debug\net10.0\ArbolBinarioApp.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lab06_arboles\ArbolBinarioApp\obj\Debug\net10.0\ref\ArbolBinarioApp.dll
